@@ -200,7 +200,10 @@ Use Dashboard ID:
  You will see:
 
 •	CPU usage
+
 •	Memory usage
+
 •	Pod count
+
 •	Node health
 
