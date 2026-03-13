@@ -195,19 +195,12 @@ Grafana → Dashboards → Import
 
 Use Dashboard ID:
 
-6417
-
-(or)
-
-3662
+6417 (or) 3662
 
  You will see:
 
 •	CPU usage
-
 •	Memory usage
-
 •	Pod count
-
 •	Node health
 
