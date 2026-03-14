@@ -68,8 +68,6 @@ Minikube is a lightweight, single-node Kubernetes cluster tool for local develop
 
 Helm is the package manager for Kubernetes, simplifying the definition, installation, and upgrading of even complex applications by bundling all necessary Kubernetes resources into single, reusable packages called Helm Charts.
 
-
-
  It acts like a software installer for Kubernetes, letting you manage applications with commands like install, upgrade, and rollback, reducing manual configuration and ensuring consistency across different environments
 
 ---------------------------------------------------------------------------------------------------
@@ -82,7 +80,7 @@ curl https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3 | bash
 Check:
 
 helm version
-________________________________________________________________________
+__________________________________________________________________
 
  Deploy Sample Application (nginx)
 
