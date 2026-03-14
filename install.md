@@ -194,7 +194,6 @@ Import Kubernetes Dashboard
 Grafana → Dashboards → Import
 
 Use Dashboard ID:
-
 6417 (or) 3662
 
  You will see:
