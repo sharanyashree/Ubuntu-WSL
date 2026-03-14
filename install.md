@@ -102,7 +102,7 @@ Access app:
 minikube service nginx
 
 Kubernetes is now running our application inside a Pod.
----------------------------------------------------------------------------------------------------
+----------------------------------------------------------
 
 
 Install Prometheus (Monitoring)
@@ -138,7 +138,7 @@ up
 
  Explain:
 Prometheus is scraping Kubernetes metrics automatically.
-----------------------------------------------------------------------------------------------------
+---------------------------------------------------------------
 
 
 Install Grafana (Visualization)
